@@ -2173,5 +2173,13 @@ module.exports = [
     {
       from: '/users/references/user-data-storage-best-practices',
       to: '/best-practices/user-data-storage-best-practices'
+    },
+    {
+      from: '/enterprise/private-cloud/overview',
+      to: '/private-saas-deployment'
+    },
+    {
+      from: '/private-cloud',
+      to: '/private-saas-deployment'
     }
 ];
