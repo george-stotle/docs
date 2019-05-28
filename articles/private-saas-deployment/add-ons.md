@@ -8,7 +8,7 @@ sitemap: false
 ---
 # Private Cloud Add-On Options
 
-The follow add-on options are available to private cloud customers:
+The follow add-on options are available to Private SaaS customers:
 
 <table class="table">
     <thead>
