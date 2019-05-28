@@ -23,38 +23,38 @@ The follow add-on options are available to private cloud customers:
     <tbody>
         <tr>
             <th><a href="#enhanced-uptime-guarantee-sla-">Enhanced Uptime Guarantee (SLA)</a></th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-warning">No</th>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-warning">No</td>
         </tr>
         <tr>
-            <th><a href="#high-capacity">High Capacity</a></th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-warning">No</th>
+            <th><a href="#high-capacity">High Capacity</a></td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-warning">No</td>
         </tr>
         <tr>
-            <th><a href="#pci-certified">PCI Certified</a></th>
-            <th class="label label-warning">No</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-warning">No</th>
+            <th><a href="#pci-certified">PCI Certified</a></td>
+            <td><div class="label label-warning">No</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-warning">No</td>
         </tr>
         <tr>
             <th><a href="#geo-ha">GEO-HA</a></th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-warning">No</th>
-            <th class="label label-warning">No</th>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-warning">No</td>
+            <td><div class="label label-warning">No</td>
         </tr>
         <tr>
             <th><a href="#additional-pre-production-environment">Additional Pre-Production Environment</a></th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-primary">Yes</th>
-            <th class="label label-warning">No</th>
-            <th class="label label-warning">No</th>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-primary">Yes</td>
+            <td><div class="label label-warning">No</td>
+            <td><div class="label label-warning">No</td>
         </tr>
     </tbody>
 </table>
