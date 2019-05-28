@@ -10,7 +10,7 @@ sitemap: false
 
 The follow add-on options are available to private cloud customers:
 
-<table>
+<table class="table">
     <thead>
         <tr>
             <th></th>
@@ -22,35 +22,35 @@ The follow add-on options are available to private cloud customers:
     </thead>
     <tbody>
         <tr>
-            <th><a href="#">Enhanced Uptime Guarantee (SLA)</a></th>
+            <th><a href="#enhanced-uptime-guarantee-sla-">Enhanced Uptime Guarantee (SLA)</a></th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-danger">No</th>
         </tr>
         <tr>
-            <th><a href="#">High Capacity</a></th>
+            <th><a href="#high-capacity">High Capacity</a></th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-danger">No</th>
         </tr>
         <tr>
-            <th><a href="#">PCI Certified</a></th>
+            <th><a href="#pci-certified">PCI Certified</a></th>
             <th class="label label-danger">No</th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-danger">No</th>
         </tr>
         <tr>
-            <th><a href="#">GEO-HA</a></th>
+            <th><a href="#geo-ha">GEO-HA</a></th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-danger">No</th>
             <th class="label label-danger">No</th>
         </tr>
         <tr>
-            <th><a href="#">Additional Pre-Production Environment</a></th>
+            <th><a href="#additional-pre-production-environment">Additional Pre-Production Environment</a></th>
             <th class="label label-success">Yes</th>
             <th class="label label-success">Yes</th>
             <th class="label label-danger">No</th>
