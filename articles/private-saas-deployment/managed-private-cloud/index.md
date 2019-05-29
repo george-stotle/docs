@@ -13,7 +13,7 @@ Auth0's **Managed Private Cloud** (MPC) offering is a specially customized Auth0
 
 With a Managed Private Cloud, we will work closely with you to make sure that all aspects of your Auth0 environment and deployment are tuned to best meet the needs of your business.
 
-<table>
+<table class="table">
 <thead>
 <tr>
 <th style="width:35%">Benefit</th>
