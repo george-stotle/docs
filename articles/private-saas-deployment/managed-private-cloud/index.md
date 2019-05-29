@@ -13,11 +13,37 @@ Auth0's **Managed Private Cloud** (MPC) offering is a specially customized Auth0
 
 With a Managed Private Cloud, we will work closely with you to make sure that all aspects of your Auth0 environment and deployment are tuned to best meet the needs of your business.
 
-| Benefit | Details |
-| - | - |
-| On-Demand Balancing | If you're expecting a usage spike, contact us and we'll scale your environment so that you have the capacity you need to handle the your traffic load |
-| Annual Load Testing | Hands-on load testing with an Auth0 engineer four times per year |
-| Scheduled Updates | Scheduled updates to create a release cadence to fit your team and your business' schedule |
-| Staging Environment | Dedicated environment to test new releases and changes |
-| GEO-HA | Optional. Add-on available for Geographic High Availability. |
-| Customer-Hosting | Optional. Can host your Auth0 deployment in an AWS cloud owned by you |
+<table>
+<thead>
+<tr>
+<th style="width:35%">Benefit</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>On-Demand Balancing</td>
+<td>If you're expecting a usage spike, contact us and we'll scale your environment so that you have the capacity you need to handle the your traffic load</td>
+</tr>
+<tr>
+<td>Annual Load Testing</td>
+<td>You may choose to load test your Auth0 environment if desired. While not required, Auth0 appreciates notification of such tests ahead of time.</td>
+</tr>
+<tr>
+<td>Scheduled Updates</td>
+<td>Scheduled updates to create a release cadence to fit your team and your business' schedule</td>
+</tr>
+<tr>
+<td>Staging Environment</td>
+<td>Dedicated environment to test new releases and changes</td>
+</tr>
+<tr>
+<td>GEO-HA</td>
+<td>Optional. Add-on available for Geographic High Availability.</td>
+</tr>
+<tr>
+<td>Customer-Hosting</td>
+<td>Optional. Can host your Auth0 deployment in an AWS cloud owned by you</td>
+</tr>
+</tbody>
+</table>
